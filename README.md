@@ -19,10 +19,14 @@ tablas de la BD.
 Base De Datos MySQL o MariaDB
 ------------------------------
 
------------------------------------------------------------------------------------------------------------------------
+------------------------------
 Este Proyecto sirve como guía para el curso de Gestión de Configuración de Software de la Universidad Privada De Tacna
------------------------------------------------------------------------------------------------------------------------
+------------------------------
 
+------------------------------
+Para información detallada consultar la WIKI del proyecto:
+https://github.com/Finderfire/Swing-LookAndFeel-NiceGUI/wiki
+------------------------------
 
 ENJOY.
 J. Kevin Montes De Oca Vizcarra.
