@@ -36,7 +36,7 @@ public class clsConexionDS {
             ds.setServerName("127.0.0.1");
             ds.setPort(3306);
             ds.setDatabaseName("gestor_configuracion");
-            conexion = ds.getConnection("root","iddqd");
+            conexion = ds.getConnection("root","");
         }
         catch(SQLException ex)
         {
