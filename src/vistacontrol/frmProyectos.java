@@ -409,7 +409,7 @@ public class frmProyectos extends javax.swing.JPanel {
 
         lblEquipoProyecto1.setFont(new java.awt.Font("Droid Sans", 0, 14)); // NOI18N
         lblEquipoProyecto1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblEquipoProyecto1.setText("<html>\n<div align=\"center\">\nGueiler Sosa<br>\nRodrigo Chirinos<br>\nKevin Montes De Oca<br>\nFernando Jiménez<br>\n</div>\n</html>");
+        lblEquipoProyecto1.setText("<html>\n<div align=\"center\">\nPersona1<br>\nPersona 2<br>\nPersona 3<br>\nPersona 4<br>\n</div>\n</html>");
         lblEquipoProyecto1.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
         lblEquipoProyecto1.setPreferredSize(new java.awt.Dimension(158, 68));
         gridBagConstraints = new java.awt.GridBagConstraints();
