@@ -1,0 +1,12 @@
+SISTEMA GESTOR DE CONFIGURACION -SGC-
+-------------------------------------
+
+El sistema inicia desde el paquete "principal" con la clsPrincipal para
+establecer el Look And Feel del sistema (WebLaf).
+
+-Arquitectura de "n" capas.
+-accesocontroles.
+-accesodatos (DAO).
+-transferenciadatos (DTO).
+-vistacontrol.
+
