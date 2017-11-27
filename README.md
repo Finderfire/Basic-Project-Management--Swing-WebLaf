@@ -1,4 +1,4 @@
-# Swing - Sapmple WebLaf UI
+# Swing - Sample WebLaf UI
 Aplicación de ejemplo basada en realizar un software de GESTION DE PROYECTOS BASICA con una GUI agradable en Swing combinando algunos conceptos como MaterialDesign, ventanas modales, así como el uso de la librería WebLaf LookAndFeel (http://weblookandfeel.com/). 
 
 El sistema ejemplo enfoca su core en la administración de proyectos de manera básica, soportando:
