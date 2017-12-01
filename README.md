@@ -17,6 +17,7 @@ tablas de la BD.
 ------------------------------
 Base De Datos MySQL o MariaDB
 ------------------------------
+Enlace a Mega: (https://mega.nz/#!JgFhRBhb!us7nOzyMaXRlh4DB-nJLn8hUAicyvPlxiW4IyLIfUBY)
 
 ------------------------------
 Este Proyecto sirve como guía para el curso de Gestión de Configuración de Software de la Universidad Privada De Tacna
